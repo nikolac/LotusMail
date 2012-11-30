@@ -1,0 +1,15 @@
+LotusMail
+=======================
+
+LotusMail.py provides the ability to send email with python through a local lotus notes database. 
+
+Window Only!
+
+Dependencies
+--------------------
+pyWin (win32com)
+sourceforge.net/projects/pywin32/
+
+
+Documentation
+----------------
